@@ -1,3 +1,6 @@
+body {
+  height: 3000px;
+}
 #Home {
   padding-top: 2rem;
   background-color: #e2edff;
@@ -5,4 +8,10 @@
 
 #mygalery {
   background-color: #e2edff;
+}
+
+#tools img {
+  width: 15%;
+  margin-right: 25px;
+  margin-top: 25px;
 }
